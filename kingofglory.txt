@@ -1,3 +1,4 @@
 name:sukidi
 glory:forever diamond
 vitory rate:95%
+its false
