@@ -2,3 +2,5 @@ name:sukidi
 glory:forever diamond
 vitory rate:95%
 sdsddssdsd
+xx00
+issue-101
